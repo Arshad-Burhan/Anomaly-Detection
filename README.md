@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-In this project, I implemented the anomaly detection algorithm and apply it to detect anomaly detection algorithm to detect anomalous behavior in server computers.
+In this project, I implemented the anomaly detection algorithm and applied it to detect anomaly detection algorithm to detect anomalous behavior in server computers.
 
 #### Project Files
 
